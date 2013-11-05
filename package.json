@@ -1,6 +1,6 @@
 {
-  "name": "ngmin",
-  "description": "AngularJS Minifier",
+  "name": "ngmin-with-comments",
+  "description": "AngularJS Minifier (modified to not remove comments)",
   "version": "0.4.0",
   "author": "Brian Ford",
   "license": "MIT",
@@ -23,7 +23,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/btford/ngmin"
+    "url": "https://github.com/romario333/ngmin"
   },
   "bin": {
     "ngmin": "./bin/ngmin"
